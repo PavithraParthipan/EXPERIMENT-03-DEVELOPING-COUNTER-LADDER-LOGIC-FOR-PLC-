@@ -68,19 +68,17 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 
 ### Simulation Screenshots:
 
-<img width="766" height="406" alt="image" src="https://github.com/user-attachments/assets/556803c0-94e0-4eed-a334-9368beee51f3" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 081049" src="https://github.com/user-attachments/assets/6ec10876-577f-40f6-b02d-743ca1137a3f" />
 
+<img width="1919" height="1047" alt="Screenshot 2025-10-09 082010" src="https://github.com/user-attachments/assets/6bd10f2c-a7e9-456e-8b99-0e1e7e810cda" />
 
-<img width="770" height="410" alt="image" src="https://github.com/user-attachments/assets/c9fbed37-37e7-4fb4-99bc-0f945cde37ae" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 081357" src="https://github.com/user-attachments/assets/131d2a06-bed3-4733-af71-b156c20133be" />
 
-<img width="774" height="409" alt="image" src="https://github.com/user-attachments/assets/e158606c-409a-42fe-bc9a-4d23ffd46de4" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 081447" src="https://github.com/user-attachments/assets/d8aa31ba-0e3c-4692-b424-4144effe7918" />
 
-<img width="768" height="404" alt="image" src="https://github.com/user-attachments/assets/ea542e4c-e591-4dcf-84a9-dd1bd095edb2" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 081536" src="https://github.com/user-attachments/assets/f6617712-98d6-4987-b0f7-0b9764ec3a36" />
 
-<img width="774" height="410" alt="image" src="https://github.com/user-attachments/assets/51371371-1920-467d-9f0a-6799a594f9a1" />
-
-<img width="775" height="419" alt="image" src="https://github.com/user-attachments/assets/bc777b3f-c9fd-4f8c-83ce-e0d5f42a1c58" />
-
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 081551" src="https://github.com/user-attachments/assets/105a22fe-c22a-477c-81cb-336a689e5d66" />
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
